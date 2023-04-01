@@ -10,6 +10,6 @@ $ cd N3OB_FBI
 
 $ pip2 install -r requirements.txt
 
-$ python2 N3OB-FBI.py
+$ python2 n3ob-fbi-enc.py
 
 - Bot Command is Full Working😪
